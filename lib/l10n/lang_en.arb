@@ -1,0 +1,33 @@
+{
+    "@@locale": "en",
+    "language": "Language",
+    "english": "English",
+    "spanish": "Spanish",
+    "hindi": "Hindi",
+    "malayalam": "Malayalam",
+    "kannada": "Kannada",
+    "telugu": "Telugu",
+    
+    "@language": {
+      "description": "Language label"
+    },
+    "@english": {
+      "description": "English language button"
+    },
+    "@spanish": {
+      "description": "Spanish language button"
+    },
+    "@hindi": {
+      "description": "Hindi language button"
+    },
+    "@malayalam": {
+      "description": "Malayalam language button"
+    },
+    "@kannada": {
+      "description": "Kannada language button"
+    },
+    "@telugu": {
+      "description": "Telugu language button"
+    }
+  }
+  
